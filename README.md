@@ -5,6 +5,6 @@ This can be used with local or [JupyterHub](https://github.com/jupyterhub/jupyte
 
 To install:
 
-1. Download start-jupyterlab-button.js
+1. Download <a href="https://raw.githubusercontent.com/dakoop/start-jupyterlab-button/blob/master/start-jupyter-button.js" download>start-jupyterlab-button.js</a>
 2. `jupyter nbextension install [--user|--sys-prefix] start-jupyterlab-button.js`
 3. `jupyter nbextension enable [--user|--sys-prefix] --section='tree' start-jupyterlab-button`
